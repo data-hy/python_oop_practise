@@ -1,1 +1,1 @@
-# python_object_oriented_programming_practise
+# python_oop_practise

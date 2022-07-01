@@ -1,5 +1,5 @@
 import sys
-from note_book import Note, NoteBook
+from ChapterThree.note_book import NoteBook
 
 
 class Menu:
