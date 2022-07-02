@@ -1,3 +1,5 @@
+"""python oop practise about diamond inheritance"""
+
 class BaseClass:
     num_base_calls = 0
 
